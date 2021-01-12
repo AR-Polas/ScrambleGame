@@ -101,7 +101,7 @@ button.btn:hover,button.btn:focus,button.btn:active{
 }
 @media(max-width:350px){
     .score{
-        top:125px;
+        top:130px;
         left: 43%;
     }
     h1{
